@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NPI</string>
+    <string name="btn_SelectPub">Go to pub selection</string>
+    <string name="xTextView">X:</string>
+    <string name="yTextView">Y:</string>
+    <string name="zTextView">Z:</string>
+    <string name="access_token">pk.eyJ1Ijoia2FzZXJvaGEiLCJhIjoiY2tnZmFnbGh3MWlubTJ0czV1a3J4dGhmbCJ9.VDhyVqcGSyJCj4HQzb1_Rw</string>
+    <string name="start_navigating">Start Navigating</string>
+
+
+
+
+    <!-- QR y PAGOS -->
+
+    <string name="qr_button_text">QR</string>
+    <string name="payments_button_text">Pago con Google Pay</string>
+
+    <string name="googlepay_status_unavailable" translatable="false">¡Vaya! Google Pay no está disponible en este teléfono.</string>
+    <string name="googlepay_status_checking" translatable="false">Comprobando si Google Pay está disponible...</string>
+    <string name="payments_show_name" translatable="false">¡Se ha recibido con éxito la información de pago de %s!</string>
+
+    <string name="dialog_successful_payment">"Este pago ha sido una demostración de uso de la API de Google Pay. No se ha hecho ningún cargo en la cuenta de la tarjeta introducida."</string>
+
+
+    <!-- Descripcion de la factura-->
+
+    <string name="bill_title">Factura del restaurante</string>
+    <string name="bill_price">45.30</string>
+    <string name="bill_description">Aquí se podría hacer un desglose de lo consumido en el restaurante.</string>
+
+</resources>
